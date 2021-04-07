@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 240 200" style="enable-background:new 0 0 240 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#083304;}
+	.st2{font-family:'Menlo-Regular';}
+	.st3{font-size:24px;}
+	.st4{fill:url(#SVGID_1_);}
+</style>
+<rect width="240" height="200"/>
+<rect x="-50.2" y="1.2" class="st0" width="320" height="197.8"/>
+<text transform="matrix(1 0 0 1 -50.2239 19.4146)"><tspan x="0" y="0" class="st1 st2 st3">01000100 01100001 </tspan><tspan x="0" y="28.8" class="st1 st2 st3">01110110 01101001 </tspan><tspan x="0" y="57.6" class="st1 st2 st3">01100100 00100000 </tspan><tspan x="0" y="86.4" class="st1 st2 st3">01101001 01110011 </tspan><tspan x="0" y="115.2" class="st1 st2 st3">00100000 01100111 </tspan><tspan x="0" y="144" class="st1 st2 st3">01110010 01100101 </tspan><tspan x="0" y="172.8" class="st1 st2 st3">01100001 01110100 </tspan></text>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="45.7937" y1="99.8027" x2="240" y2="99.8027">
+	<stop  offset="0" style="stop-color:#000000;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="45.8" y="-0.4" class="st4" width="194.2" height="200.4"/>
+</svg>

@@ -4,10 +4,13 @@ title: Index
 permalink: /
 ---
 
-# This is a header
+# The Sim4IR Workshop at SIGIR 2021
 
-This is the index page! Woohah.
+Welcome to the Sim4IR workshop website. We're delighted that we're going to be running a workshop at [ACM SIGIR 2021](https://sigir.org/sigir2021/) on simulation within Information Retrieval. For more information on this workshop, click one of the links below.
 
-- this is a list
+* Read **[about the organisers of the workshop](/about)**.
+* Have a look at the **[call for papers](/cfp)**.
+* Don't forget to **[check the important dates!](/dates)**.
+* Have a look at the **[submission guidelines](/submission)**.
 
-- and another list
+Any questions? Feel free to contact the organisers at [sim4ir@easychair.org](mailto:sim4ir@easychair.org).

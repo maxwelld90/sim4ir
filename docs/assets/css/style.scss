@@ -2,13 +2,122 @@
 ---
 
 @import "{{ site.theme }}";
-@import "fonts.css";
+@import url('fonts.css');
+
+/* Global Styles */
 
 body {
     font-family: 'Roboto', sans-serif;
+    font-size: 14pt;
+}
+
+img {
+    margin: 0;
+    border: none;
+}
+
+.colour {
+    color: #28FE14;
+}
+
+section {
+
 }
 
 h1 {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 700;
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 700 !important;
+}
+
+h1 a {
+    font-weight: 700 !important;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 700 !important;
+}
+
+footer p {
+    margin: 0;
+}
+
+a {
+    color: green;
+    font-weight: 500;
+}
+
+/* Header Styles */
+
+header {
+    background-color: #000;
+    width: 215px;
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 30px 0px 0 0;
+    padding: 35px 0 25px 50px;
+    background-image: url('/assets/img/header-background.svg');
+    background-repeat: repeat-y;
+    background-position: bottom left;
+    background-size: 90%;
+}
+
+header img {
+    margin: 0;
+}
+
+header ul {
+    display: block;
+    width: 100%;
+    margin: 40px 0 30px;
+}
+
+header ul li {
+    margin: 0 0 25px;
+    padding: 0;
+    background: none;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+    width: 100%;
+}
+
+header ul li:last-child {
+    margin-bottom: 0;
+}
+
+header ul li:hover {
+    background: none;
+}
+
+header ul li a {
+    display: block;
+    font-size: 14pt;
+    font-weight: 500;
+    line-height: 16pt;
+    padding: 5px 0 5px;
+}
+
+header ul li a:hover {
+    background-color: red;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding-left: 5px;
+    background-color: #28FE14;
+    color: #000;
+    text-decoration: none;
+}
+
+/* Footer Styles */
+
+footer {
+    margin: 0 0 20px;
+    font-size: 10pt;
+    line-height: 10pt;
+}
+
+footer img.sigir {
+    position: relative;
+    right: 8px;
 }
