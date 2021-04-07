@@ -3,3 +3,7 @@
 
 @import "{{ site.theme }}";
 @import "fonts.css";
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
