@@ -1,4 +1,9 @@
-_site/
-.sass-cache/
-.jekyll-cache/
+# System databases
+Thumbs.db
+.DS_Store
+
+_site
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
+vendor
