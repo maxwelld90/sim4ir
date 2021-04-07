@@ -1,8 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: Index
+permalink: /
 ---
 
+# This is a header
+
 This is the index page! Woohah.
+
+- this is a list
+
+- and another list
