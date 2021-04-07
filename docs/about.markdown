@@ -6,15 +6,13 @@ permalink: /about/
 
 # About the Sim4IR Workshop
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Organisers
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+| ![Professor Krisztian Balog](/assets/img/krisztian.jpg) | **[Professor Krisztian Balog](https://krisztianbalog.com/about/)**<br />University of Stavanger<br />Norway |
+| ![Dr David Maxwell](/assets/img/david.jpg) | **[Dr David Maxwell](https://www.dmax.org.uk)**<br />Delft University of Technology<br />The Netherlands |
+| ![Dr Paul Thomas](/assets/img/paul.jpg) | **[Dr Paul Thomas](https://www.microsoft.com/en-us/research/people/pathom/)**<br />Microsoft Canberra<br />Australia |
+| ![Dr Shuo Zhang](/assets/img/shuo.jpg) | **[Dr Shuo Zhang](https://imsure318.github.io/)**<br />University of Stavanger<br />Norway |
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Contact Us
 
-
-[jekyll-organization]: https://github.com/jekyll
+To contact the organisers, reach out to us at [sim4ir@easychair.org](mailto:sim4ir@easychair.org).

@@ -4,6 +4,18 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
+# Summary
+
+**Sim4IR: Workshop on Simulation for Information Retrieval Evaluation**  
+**Co-located with SIGIR 2021 (Virtual Event)**
+
+July 15, 2021
+
+**Homepage:** [https://www.sim4ir.org/](https://www.sim4ir.org/)  
+**Submission:** [https://easychair.org/my/conference?conf=sim4ir](https://easychair.org/my/conference?conf=sim4ir)  
+**Queries:** [sim4ir@easychair.org](mailto:sim4ir@easychair.org)  
+**Submissions due:** see [Important Dates](/dates)
+
 # Call for Papers
 
 Simulation techniques are not foreign to information retrieval.  Simulation has been employed, for example, for constructing test collections and for model performance prediction and analysis in a broad array of information access scenarios.  The need for simulation has become ever more apparent recently with the emergence of areas where other types of evaluation are infeasible.  One such area is conversational information access, where human evaluation is both time and resource intensive at scale.  Another example is provided by settings that do not allow sharing of data, e.g., because of privacy constraints, and therefore necessitate the creation of synthetic test collections.

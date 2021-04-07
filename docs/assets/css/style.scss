@@ -43,8 +43,22 @@ footer p {
 }
 
 a {
-    color: green;
+    color: #18980c;
     font-weight: 500;
+}
+
+blockquote {
+    padding: 10px;
+    font-size: 16pt;
+    line-height: 22pt;
+    font-style: normal;
+    background-color: #106608;
+    color: #FFF;
+    border-radius: 5px;
+}
+
+blockquote p:last-child {
+    margin-bottom: 0;
 }
 
 /* Header Styles */
@@ -120,4 +134,25 @@ footer {
 footer img.sigir {
     position: relative;
     right: 8px;
+}
+
+table {
+    border: none;
+}
+
+td {
+    background-color: transparent;
+}
+
+td:last-child {
+    vertical-align: top;
+}
+
+td:first-child {
+    width: 20%;
+}
+
+td:first-child img {
+    width: 155px;
+    height: auto;
 }
