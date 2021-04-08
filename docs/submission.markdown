@@ -15,4 +15,4 @@ In addition to the paper contributions, we also invite submissions of **encore t
 # How do I Submit?
 
 **To submit your paper, please click the following link to access EasyChair.**
-[`https://easychair.org/my/conference?conf=sim4ir`](https://easychair.org/my/conference?conf=sim4ir)
+[`https://easychair.org/conferences/?conf=sim4ir`](https://easychair.org/conferences/?conf=sim4ir)
