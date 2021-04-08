@@ -13,7 +13,7 @@ July 15, 2021
 
 **Homepage:** [https://sim4ir.org/](https://sim4ir.org/)  
 **Submission:** [https://easychair.org/conferences/?conf=sim4ir](https://easychair.org/conferences/?conf=sim4ir)  
-**Queries:** [sim4ir@easychair.org](mailto:sim4ir@easychair.org)
+**Queries:** [sim4ir@easychair.org](mailto:sim4ir@easychair.org)  
 **Submissions due:** see [Important Dates](/dates)
 
 # Call for Papers
