@@ -7,7 +7,7 @@ sim4IR is organised by:
 * Krisztian Balog
 * David Maxwell
 * Paul Thomas
-* Zhang Shuo
+* Shuo Zhang
 
 The github.io branch of this repository houses the static website hosted at https://www.sim4ir.org. You can access the code for the website by running the following commands.
 
