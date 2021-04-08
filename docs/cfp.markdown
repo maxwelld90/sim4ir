@@ -11,7 +11,7 @@ permalink: /cfp/
 
 July 15, 2021
 
-**Homepage:** [https://www.sim4ir.org/](https://www.sim4ir.org/)  
+**Homepage:** [https://sim4ir.org/](https://sim4ir.org/)  
 **Submission:** [https://easychair.org/my/conference?conf=sim4ir](https://easychair.org/my/conference?conf=sim4ir)  
 **Queries:** [sim4ir@easychair.org](mailto:sim4ir@easychair.org)  
 **Submissions due:** see [Important Dates](/dates)
