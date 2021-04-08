@@ -21,7 +21,7 @@
 title: sim4IR
 email: sim4ir@easychair.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Description of the workshop goes here.
+  Sim4IR is a workshop, co-located with ACM SIGIR 2021, that encourages discussion about simulation in the field of Information Retrieval. We invite contributions from all areas of simulation within IR (system-sided to user-sided).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
