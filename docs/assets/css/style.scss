@@ -136,6 +136,20 @@ footer img.sigir {
     right: 8px;
 }
 
+@media screen and (max-height: 620px) {
+    footer img.sigir {
+        display: none;
+    }
+}
+
+@media screen and (max-height: 540px) {
+    footer {
+        display: none;
+    }
+}
+
+/* Table manipulation (for the about page) */
+
 table {
     border: none;
 }
