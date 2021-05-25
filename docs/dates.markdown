@@ -13,7 +13,7 @@ When you're ready to submit, check out the [Submission Guidelines](/submission).
 
 * ~~**May 4, 2021** Paper submissions due~~
 
-* **May 18, 2021** Encore Talk submissions
+* ~~**May 18, 2021** Encore Talk submissions~~
 
 * **June 1, 2021** Paper notifications due
 
