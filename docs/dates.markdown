@@ -15,7 +15,7 @@ When you're ready to submit, check out the [Submission Guidelines](/submission).
 
 * ~~**May 18, 2021** Encore Talk submissions~~
 
-* **June 1, 2021** Paper notifications due
+* ~~**June 1, 2021** Paper notifications due~~
 
 * **June 15, 2021** Camera-Ready deadline
 
