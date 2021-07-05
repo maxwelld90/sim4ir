@@ -29,7 +29,11 @@ function convertTimes(element, timezoneString) {
         console.log(timeStr);
 
         console.log(convertTZ(timeStr, timezoneString));
+        console.log(convertTZ("2021-15-07 09:00:00 +0200", "Pacific/Auckland"))
+
+        console.log('====');
     }
+
 
 
     //console.log(convertTZ("2021-15-07 09:00:00 +0200", "Pacific/Auckland"))
