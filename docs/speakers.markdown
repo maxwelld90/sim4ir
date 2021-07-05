@@ -8,9 +8,9 @@ permalink: /speakers/
 
 Sim4IR has a diverse range of speakers, covering a range of different topics related to simulation in the Information Retrieval domain. We have three kinds of talk:
 
-* two **keynotes** talks;
-* three **paper presentations**; and
-* eight **encore** talks.
+* two [**keynote**](#keynotes) talks;
+* three [**paper presentations**](#papers); and
+* eight [**encore**](#encore) talks.
 
 To view a detailed schedule, please check out the **[schedule](/schedule/)** page.
 
