@@ -10,7 +10,7 @@ We welcome submissions of **regular papers (4-6 pages)** that present original t
 
 In addition to the paper contributions, we also invite submissions of **encore talks**, to present work that has already been published in a leading conference or journal, but is relevant to the topics of this workshop.  We require a copy of the paper along with a brief (max 200 words) statement of relevance.
 
-> **~~The submission deadline for papers is 23:59 (AOE) on May 4, 2021.~~ Encore talk submissions are due at 23:59 (AOE) on May 18, 2021.**
+> **~~The submission deadline for papers is 23:59 (AOE) on May 4, 2021. Encore talk submissions are due at 23:59 (AOE) on May 18, 2021.~~**
 
 # How do I Submit?
 
