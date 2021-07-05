@@ -26,7 +26,7 @@ function convertTimes(element, timezoneString) {
         let timeStr = "2021-07-15 " + time + ":00 " + OFFSET;
         console.log(timeStr);
 
-        console.log(convertTZ(timeStr, timezoneString));
+        console.log(convertTZ(timeStr, "Pacific/Auckland"));
 
         console.log('====');
     }
