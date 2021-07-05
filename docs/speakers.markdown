@@ -14,49 +14,6 @@ Sim4IR has a diverse range of speakers, covering a range of different topics rel
 
 To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
 
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
-To find out when each of the talks will take place, please check out the **[schedule](/schedule/)**.
-
 ## Keynotes
 
 **<a name="dave-hawking"></a>Dave Hawking**
