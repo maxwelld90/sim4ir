@@ -13,7 +13,7 @@ function convertTimesToLocal() {
     console.log(timezoneString);
 
 
-    statusElement.innerHTML = "<strong>Schedule times advertised below have been converted to your computer's local timezone.</strong>";
+    statusElement.innerHTML = "<strong>Schedule times advertised below have been converted to your computer's local timezone (" + timezoneString + ").</strong>";
 }
 
 function getTimezoneString() {
