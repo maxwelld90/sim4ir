@@ -11,10 +11,15 @@ function convertTimesToLocal() {
     let timezoneString = getTimezoneString();
 
     for (let timeElement of toConvert) {
-        console.log(timeElement);
+        convertTimes(timeElement, offset);
     }
     
     statusElement.innerHTML = "<strong>Schedule times advertised below have been converted to your computer's local timezone (<span class='highlighted'>" + timezoneString + "</span>).</strong>";
+}
+
+function convertTimes(element, offset) {
+    console.log(element.innerText);
+    console.log(element.innerHTML);
 }
 
 function getTimezoneString() {

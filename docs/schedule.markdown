@@ -8,7 +8,7 @@ permalink: /schedule/
 
 We've been busy working out the schedule for the Sim4IR workshop, and are happy to present it below. Note that the workshop takes place on **July 15th, 2021**. <span id="timezone-status">**Note that all times below are listed in Central European Summertime (CEST).**</span>
 
-The workshop is run over two blocks during the course of the day. This is to ensure we can cater for potential attendees all around the world. For speakers, we have tried our best to ensure that your talk fits in with your advertised availablity.
+The workshop is run over two blocks during the course of the day. This is to ensure we can cater for potential attendees all around the world. For speakers, we have tried our best to ensure that your talk fits in with your advertised availability.
 
 Explore the schedule below. To find out more about a talk, click the name of the speaker and you'll be able to see the corresponding talk abstract on the **[speakers](/speakers/)** page.
 
