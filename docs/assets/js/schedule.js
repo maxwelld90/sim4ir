@@ -18,12 +18,16 @@ function convertTimesToLocal() {
 
 function convertTimes(element, timezoneString) {
     let bothTimes = element.innerText;
+    let timeSplit = bothTimes.split('-');
 
-    console.log(convertTZ("2021-07-05 15:00:00 +0200", "Pacific/Auckland"))
+    console.log(timeSplit);
 
-    console.log('===');
+    for (let time of timeSplit) {
+        console.log(time);
+    }
 
-    console.log(convertTZ("2021-15-07 09:00:00 +0200", "Pacific/Auckland"))
+
+    //console.log(convertTZ("2021-15-07 09:00:00 +0200", "Pacific/Auckland"))
 
 }
 
