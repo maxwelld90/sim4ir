@@ -12,8 +12,8 @@ The workshop is run over two blocks during the course of the day; one CEST morni
 
 **Session A (0900-1210)**
 
-| Start Time | End Time | Speaker      |   |   |
-|------------|----------|--------------|---|---|
-| 0900       | 0910     | Organisers   |   |   |
-| 0910       | 0945     | Dave Hawking |   |   |
-|            |          |              |   |   |
+| Start Time | End Time | Speaker                                                           |
+|------------|----------|-------------------------------------------------------------------|
+| 0900       | 0910     | Organisers                                                        |
+|            |          | Introduction to the workshop, and what we aim to achieve with it. |
+| 0910       | 0945     | Dave Hawking Keynote: Title                                       |
