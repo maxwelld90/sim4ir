@@ -6,8 +6,18 @@ window.addEventListener('load', function() {
 
 function convertTimesToLocal() {
     let statusElement = document.querySelector('#timezone-status');
+    let offset = getTimezoneOffset();
+
+    console.log(offset);
 
 
+    statusElement.innerHTML = "<strong>Schedule times advertised below have been converted to your computer's local timezone.</strong>";
+}
 
-    statusElement.innerHTML = "Schedule times advertised below have been converted to your computer's local timezone.";
+function getTimezoneString() {
+
+}
+
+function getTimezoneOffset() {
+    return new Date().getTimezoneOffset();
 }
