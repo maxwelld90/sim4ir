@@ -1,7 +1,9 @@
 window.addEventListener('load', function() {
-    convertTimesToLocal();
+    if (pageTitle && pageTitle === 'Schedule') {
+        convertTimesToLocal();
+    }
 });
 
 function convertTimesToLocal() {
-    console.log(pageTitle);
+    console.log("Convert the time stamps");
 }
