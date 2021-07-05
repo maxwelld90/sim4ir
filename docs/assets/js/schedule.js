@@ -3,5 +3,5 @@ window.addEventListener('load', function() {
 });
 
 function convertTimesToLocal() {
-    console.log('Hello world!');
+    console.log(pageTitle);
 }
