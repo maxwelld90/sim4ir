@@ -180,6 +180,10 @@ table tr {
     background-color: gray;
 }
 
+table tr:nth-child(2n) {
+    background-color: red;
+}
+
 /* Responsive Styling */
 
 @media screen and (max-width: 960px) {
