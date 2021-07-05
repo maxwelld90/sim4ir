@@ -177,12 +177,12 @@ table th {
     background-color: #0c4c06;
 }
 
-table tr {
-    background-color: gray;
-}
-
 table tr:nth-child(2n) {
     background-color: #d4ffd0;
+}
+
+table tr:hover {
+    background-color: #94ff8a !important;
 }
 
 /* Responsive Styling */
