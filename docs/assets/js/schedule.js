@@ -4,6 +4,8 @@ window.addEventListener('load', function() {
     }
 });
 
+const OFFSET = "+0200"; // What timezone is the conference scheduled in? (CEST)
+
 function convertTimesToLocal() {
     let statusElement = document.querySelector('#timezone-status');
     let toConvert = document.querySelectorAll('.time');
@@ -23,7 +25,8 @@ function convertTimes(element, timezoneString) {
     console.log(timeSplit);
 
     for (let time of timeSplit) {
-        console.log(time);
+        let timeStr = "2021-15-07 " + time + ":00 " + OFFSET;
+        console.log(timeStr);
     }
 
 
