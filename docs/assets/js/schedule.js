@@ -34,9 +34,7 @@ function convertTimes(element, timezoneString) {
 
         let hours = dateObject.getHours().toString();
         let minutes = dateObject.getMinutes().toString();
-
         
-
         if (hours.length == 1) {
             hours = "0" + hours;
         }
