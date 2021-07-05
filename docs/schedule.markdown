@@ -15,5 +15,5 @@ The workshop is run over two blocks during the course of the day; one CEST morni
 | Time      | Speaker/Event                                         |
 |-----------|-------------------------------------------------------|
 | 0900-0910 | **Organisers**<br />What do we want to achieve at Sim4IR? |
-| 0910-0945 | **Dave Hawking**<br />Keynote address                      |
+| 0910-0945 | [**Dave Hawking**](/schedule/#dave-hawking)<br />Keynote address                      |
 | 0945-0955 | **Break**                                             |
