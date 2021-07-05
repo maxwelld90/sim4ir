@@ -10,7 +10,7 @@ function convertTimesToLocal() {
     let offset = getTimezoneOffset();
     let timezoneString = getTimezoneString();
 
-    for (let timeElement in toConvert) {
+    for (let timeElement of toConvert) {
         console.log(timeElement);
     }
     
