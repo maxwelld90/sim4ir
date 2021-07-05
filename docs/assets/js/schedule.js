@@ -5,5 +5,9 @@ window.addEventListener('load', function() {
 });
 
 function convertTimesToLocal() {
-    console.log("Convert the time stamps");
+    let statusElement = document.querySelector('#timezone-status');
+
+
+
+    statusElement.innerHTML = "Schedule times advertised below have been converted to your computer's local timezone.";
 }
