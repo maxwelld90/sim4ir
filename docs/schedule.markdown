@@ -12,6 +12,8 @@ The workshop is run over two blocks during the course of the day: one CEST morni
 
 Explore the schedule below. To find out more about a talk, click the name of the speaker and you'll be taken to the **[speakers](/speakers/)** page.
 
+***
+
 **Session A** Running 0900-1210
 
 | Time      | Speaker/Event                                         |
@@ -19,3 +21,8 @@ Explore the schedule below. To find out more about a talk, click the name of the
 | 0900-0910 | **Organisers**<br />What do we want to achieve at Sim4IR? |
 | 0910-0945 | [**Dave Hawking**](/speakers/#dave-hawking)<br />Keynote address                      |
 | 0945-0955 | **Break**                                             |
+
+***
+
+**Schedule B** Running xxxx-xxxx
+
