@@ -22,14 +22,11 @@ function convertTimes(element, timezoneString) {
     let bothTimes = element.innerText;
     let timeSplit = bothTimes.split('-');
 
-    console.log(timeSplit);
-
     for (let time of timeSplit) {
-        let timeStr = "2021-15-07 " + time + ":00 " + OFFSET;
+        let timeStr = "2021-07-15 " + time + ":00 " + OFFSET;
         console.log(timeStr);
 
         console.log(convertTZ(timeStr, timezoneString));
-        console.log(convertTZ("2021-15-07 09:00:00 +0200", "Pacific/Auckland"))
 
         console.log('====');
     }
