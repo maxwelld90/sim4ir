@@ -27,6 +27,8 @@ function convertTimes(element, timezoneString) {
     for (let time of timeSplit) {
         let timeStr = "2021-15-07 " + time + ":00 " + OFFSET;
         console.log(timeStr);
+
+        console.log(convertTZ(timeStr, timezoneString));
     }
 
 
