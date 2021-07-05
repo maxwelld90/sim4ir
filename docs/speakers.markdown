@@ -16,7 +16,7 @@ To find out when each of the talks will take place, please check out the **[sche
 
 ## Keynotes
 
-**Dave Hawking**
+**<a name="dave-hawking"></a>Dave Hawking**
 Dave's abstract will go here.
 
 
