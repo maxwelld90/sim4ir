@@ -19,7 +19,7 @@ Explore the schedule below. To find out more about a talk, click the name of the
 | Time        | Speaker/Event                                         |
 |-------------|-------------------------------------------------------|
 | <span class="time">09:00-09:15</span> | **Welcome!** |
-| <span class="time">09:15-09:50</span> | [**Dave Hawking**](/speakers/#dave)<br />Keynote Address                      |
+| <span class="time">09:15-09:50</span> | [**David Hawking**](/speakers/#dave)<br />Keynote Address                      |
 | <span class="time">09:50-10:10</span> | [**Sebastian Günther**](/speakers/#sebastian)<br />Paper Presentation              |
 | <span class="time">10:10-10:30</span> | [**Yurou Zhao**](/speakers/#yurou)<br />Paper Presentation                     |
 | <span class="time">10:30-10:40</span> | **Break**                                             |
