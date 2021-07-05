@@ -29,13 +29,13 @@ function convertTimes(element, timezoneString) {
     let newString = '';
 
     for (let time of timeSplit) {
-        let timeStr = "2021-07-15 " + time + ":00 " + OFFSET;
-        let dateObject = convertTZ("2021-07-15 " + time + ":00 " + OFFSET, timezoneString);
+        let timeStr = "2021/07/15 " + time + ":00 " + OFFSET;
+        let dateObject = convertTZ(timeStr, timezoneString);
 
         let hours = dateObject.getHours().toString();
         let minutes = dateObject.getMinutes().toString();
 
-        console.log(dateObject);
+        
 
         if (hours.length == 1) {
             hours = "0" + hours;
