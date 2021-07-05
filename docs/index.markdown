@@ -10,7 +10,10 @@ Welcome to the Sim4IR workshop website. We're delighted that we're going to be r
 
 To find out more about the workshop, click one of the links below.
 
-* Read **[about the organisers of the workshop](/about)**.
+* Read **[about the organisers and reviewers of the workshop](/about)**.
+* Have a look at the workshop's **[detailed schedule](/schedule)**.
+* Read about the **[speakers who are participating in the workshop](/speakers)**.
+
 * Have a look at the **[call for papers](/cfp)**.
 * Don't forget to **[check the important dates!](/dates)**
 * Have a look at the **[submission guidelines](/submission)**.

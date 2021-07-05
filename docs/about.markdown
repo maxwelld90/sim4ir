@@ -13,6 +13,10 @@ permalink: /about/
 | ![Paul Thomas](/assets/img/paul.jpg) | **[Paul Thomas](https://www.microsoft.com/en-us/research/people/pathom/)**<br />Microsoft Canberra<br />Australia |
 | ![Shuo Zhang](/assets/img/shuo.jpg) | **[Shuo Zhang](https://imsure318.github.io/)**<br />Bloomberg London<br />England |
 
+## Reviewers
+
+The organisers of the Sim4IR workshop are incredibly grateful for all of the efforts the reviewers of submissions put into making this a success!
+
 ## Contact Us
 
 To contact the organisers, reach out to us at [sim4ir@easychair.org](mailto:sim4ir@easychair.org).

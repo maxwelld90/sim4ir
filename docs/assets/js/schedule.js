@@ -9,32 +9,47 @@ const OFFSET = "+0200"; // What timezone is the conference scheduled in? (CEST)
 function convertTimesToLocal() {
     let statusElement = document.querySelector('#timezone-status');
     let toConvert = document.querySelectorAll('.time');
+    let timezoneList = document.querySelectorAll('.timezone');
     let timezoneString = getTimezoneString();
 
     for (let timeElement of toConvert) {
         convertTimes(timeElement, timezoneString);
     }
+
+    for (let timezone of timezoneList) {
+        timezone.innerText = timezoneString;
+    }
     
-    statusElement.innerHTML = "<strong>Schedule times advertised below have been converted to your computer's local timezone (<span class='highlighted'>" + timezoneString + "</span>).</strong>";
+    statusElement.innerHTML = "<u><strong>Schedule times advertised below have been converted to your computer's local timezone (<span class='highlighted'>" + timezoneString + "</span>).</strong></u>";
 }
 
 function convertTimes(element, timezoneString) {
     let bothTimes = element.innerText;
     let timeSplit = bothTimes.split('-');
+    let newString = '';
 
     for (let time of timeSplit) {
         let timeStr = "2021-07-15 " + time + ":00 " + OFFSET;
-        console.log(timeStr);
+        let dateObject = convertTZ("2021-07-15 " + time + ":00 " + OFFSET, timezoneString);
 
-        console.log(convertTZ(timeStr, "Pacific/Auckland"));
+        let hours = dateObject.getHours().toString();
+        let minutes = dateObject.getMinutes().toString();
 
-        console.log('====');
+        console.log(dateObject);
+
+        if (hours.length == 1) {
+            hours = "0" + hours;
+        }
+        
+        if (minutes.length == 1) {
+            minutes = "0" + minutes;
+        }
+
+        newString = newString + hours + ":" + minutes + "-";
     }
-
-
-
-    //console.log(convertTZ("2021-15-07 09:00:00 +0200", "Pacific/Auckland"))
-
+    
+    newString = newString.slice(0, -1);
+    element.innerText = newString;
 }
 
 function getTimezoneString() {
@@ -42,6 +57,6 @@ function getTimezoneString() {
 }
 
 /* Function from https://stackoverflow.com/a/54127122 */
-function convertTZ(date, timezoneString) {
-    return new Date((typeof date === "string" ? new Date(date) : date).toLocaleString("en-US", {timeZone: timezoneString}));   
+function convertTZ(date, tzString) {
+    return new Date((typeof date === "string" ? new Date(date) : date).toLocaleString("en-US", {timeZone: tzString}));   
 }

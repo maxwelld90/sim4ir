@@ -17,7 +17,7 @@ When you're ready to submit, check out the [Submission Guidelines](/submission).
 
 * ~~**June 1, 2021** Paper notifications due~~
 
-* **June 15, 2021** Camera-Ready deadline
+* ~~**June 15, 2021**~~ Camera-Ready deadline
 
 * **July 15, 2021** Sim4IR workshop day
 

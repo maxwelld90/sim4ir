@@ -181,9 +181,40 @@ table tr:nth-child(2n) {
     background-color: #d4ffd0;
 }
 
-table tr:hover {
-    background-color: #147f0a !important;
-    color: #fff !important;
+// table tr:hover {
+//     background-color: #147f0a !important;
+//     color: #fff !important;
+// }
+
+// table tr:hover a {
+//     color: #FFF;
+// }
+
+table td {
+    line-height: 1.3;
+}
+
+table td .speaker {
+    display: inline-block;
+    font-size: 16pt;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+table td .abstract {
+    display: inline-block;
+    padding-top: 10px;
+    font-size: 12pt;
+    line-height: 1.4;
+}
+
+table td .bio {
+    display: inline-block;
+    padding-top: 15px;
+    font-size: 12pt;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.4;
 }
 
 .highlighted {
