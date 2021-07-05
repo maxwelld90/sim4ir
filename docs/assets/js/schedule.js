@@ -19,7 +19,8 @@ function convertTimesToLocal() {
 function convertTimes(element, timezoneString) {
     let bothTimes = element.innerText;
 
-    console.log(convertTZ("2021-07-05 15:00:00 +0200", "Pacific/Auckland"))
+    console.log(convertTZ("2021-07-15 09:00:00 +0200", "Pacific/Auckland"))
+    console.log(convertTZ("2021-07-15 10:00:00 +0200", "Pacific/Auckland"))
 
 }
 
