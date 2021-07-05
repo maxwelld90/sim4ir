@@ -16,4 +16,4 @@ The workshop is run over two blocks during the course of the day; one CEST morni
 |------------|----------|-------------------------------------------------------------------|
 | 0900       | 0910     | Organisers                                                        |
 |            |          | Introduction to the workshop, and what we aim to achieve with it. |
-| 0910       | 0945     | Dave Hawking Keynote: Title                                       |
+| 0910       | 0945     | [Dave Hawking Keynote](/schedule/#dave-hawking): Title                                       |
