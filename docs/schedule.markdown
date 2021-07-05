@@ -19,7 +19,7 @@ Explore the schedule below. To find out more about a talk, click the name of the
 | Time        | Speaker/Event                                         |
 |-------------|-------------------------------------------------------|
 | <span class="time">09:00-09:15</span> | **Organisers**<br />What do we want to achieve at Sim4IR? |
-| 09:15-09:50 | **Dave Hawking**<br />Keynote Address                      |
+| 09:15-09:50 | [**Dave Hawking**](/speakers/#dave-hawking)<br />Keynote Address                      |
 | 09:50-10:10 | **Sebastian Günther**<br />Paper Presentation              |
 | 10:10-10:30 | **Yurou Zhao**<br />Paper Presentation                     |
 | 10:30-10:40 | **Break**                                             |
