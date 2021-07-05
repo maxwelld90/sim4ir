@@ -19,9 +19,7 @@ function convertTimesToLocal() {
 function convertTimes(element, timezoneString) {
     let bothTimes = element.innerText;
 
-    let sampleStr = '2012/04/20 10:10:30 +0200';
-
-    convertTimezone(sampleStr, timezoneString);
+    console.log(convertTZ("2021-07-05 15:00:00 +0200", "Pacific/Auckland"))
 
 }
 
@@ -30,6 +28,6 @@ function getTimezoneString() {
 }
 
 /* Function from https://stackoverflow.com/a/54127122 */
-function convertTimezone(date, timezoneString) {
-    return new Date((typeof date === "string" ? new Date(date) : date).toLocaleString("en-US", {timeZone: timezoneString})); 
+function convertTZ(date, timezoneString) {
+    return new Date((typeof date === "string" ? new Date(date) : date).toLocaleString("en-US", {timeZone: timezoneString}));   
 }
