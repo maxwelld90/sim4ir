@@ -14,7 +14,7 @@ Explore the schedule below. To find out more about a talk, click the name of the
 
 ***
 
-**Session A** Running <span class="time">0900-1210</span>
+**Session A** Running <span class="time">09:00-12:10</span>
 
 | Time        | Speaker/Event                                         |
 |-------------|-------------------------------------------------------|
@@ -30,7 +30,7 @@ Explore the schedule below. To find out more about a talk, click the name of the
 
 ***
 
-**Schedule B** Running xxxx-xxxx
+**Schedule B** Running 17:00-20:30
 
 | Time        | Speaker/Event                                         |
 |-------------|-------------------------------------------------------|
