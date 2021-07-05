@@ -18,9 +18,15 @@ Explore the schedule below. To find out more about a talk, click the name of the
 
 | Time      | Speaker/Event                                         |
 |-----------|-------------------------------------------------------|
-| 0900-0910 | **Organisers**<br />What do we want to achieve at Sim4IR? |
-| 0910-0945 | [**Dave Hawking**](/speakers/#dave-hawking)<br />Keynote address                      |
-| 0945-0955 | **Break**                                             |
+| 0900-0915 | **Organisers**<br />What do we want to achieve at Sim4IR? |
+| 0915-0950 | **Dave Hawking**<br />Keynote Address                      |
+| 0950-1010 | **Sebastian Günther**<br />Paper Presentation              |
+| 1010-1030 | **Yurou Zhao**<br />Paper Presentation                     |
+| 1030-1040 | **Break**                                             |
+| 1040-1055 | **Claudia Hauff**<br />Encore Talk                         |
+| 1055-1110 | **Junqi Zhang**<br />Encore Talk                           |
+| 1110-1125 | **Manel Slokom**<br />Encore Talk                          |
+| 1125-1210 | **Breakout Session**                                  |
 
 ***
 
