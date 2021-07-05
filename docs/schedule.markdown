@@ -12,7 +12,7 @@ The workshop is run over two blocks during the course of the day: one CEST morni
 
 Explore the schedule below. To find out more about a talk, click the name of the speaker and you'll be taken to the **[speakers](/speakers/)** page.
 
-**Session A (0900-1210)**
+**Session A** Running 0900-1210
 
 | Time      | Speaker/Event                                         |
 |-----------|-------------------------------------------------------|

@@ -171,6 +171,11 @@ td:first-child img {
     height: auto;
 }
 
+table th {
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 700 !important;
+}
+
 /* Responsive Styling */
 
 @media screen and (max-width: 960px) {
