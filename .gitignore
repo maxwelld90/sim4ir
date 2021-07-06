@@ -2,3 +2,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# System databases
+Thumbs.db
+.DS_Store
