@@ -42,7 +42,7 @@ Explore the schedule below. To find out more about a talk, click the name of the
 | <span class="time">18:20-18:35</span> | [**Shuo Zhang**](/speakers/#shuo)<br />Encore Talk                            |
 | <span class="time">18:35-18:50</span> | [**Ben Carterette**](/speakers/#ben)<br />Encore Talk                        |
 | <span class="time">18:50-19:05</span> | [**Jin Huang**](/speakers/#jin)<br />Encore Talk                             |
-| <span class="time">19:05-19:20</span> | [**Eugene Agichtein**](/speakers/#eugene)<br />Encore Talk                      |
+| <span class="time">19:05-19:20</span> | [**Alexandre Salle**](/speakers/#alex)<br />Encore Talk                      |
 | <span class="time">19:20-19:35</span> | [**David Maxwell**](/speakers/#david)<br />Encore Talk                          |
 | <span class="time">19:35-19:45</span> | **Break**                                             |
 | <span class="time">19:45-20:20</span> | **Breakout Session**                                  |
