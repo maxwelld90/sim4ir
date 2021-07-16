@@ -19,6 +19,6 @@ When you're ready to submit, check out the [Submission Guidelines](/submission).
 
 * ~~**June 15, 2021**~~ Camera-Ready deadline
 
-* **July 15, 2021** Sim4IR workshop day
+* ~~**July 15, 2021**~~ Sim4IR workshop day
 
 > **Please note that all deadlines listed above are set to 23:59 AOE (Anywhere on Earth) on the advertised date.**
